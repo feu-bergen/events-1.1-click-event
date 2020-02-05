@@ -4,7 +4,11 @@ When the button on the page is clicked, "Clicked" will be output in the console.
 
 [Link to working example]
 
-See if you can create this from scratch.  If not, try to follow the steps below.  If the steps don't help, checkout out the "answer" branch from this repository which will containing a working example.
+## Task
+
+Clone or download this repository onto your computer.  You will start out in the "master" branch which contains na empty project.
+
+Try to recreate hte the the website above.  Firstly try to create it without any help.  If you are unsure of what to do, try to follow the steps below.  If the steps don't help, checkout out the "answer" branch from this repository.  The answer brnahc contains a working example.
 
 ## Steps
 
